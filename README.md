@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soumyavarghese03
+- 👋 Hi, I’m Soumya Varghese
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML,CSS,Javascript
 - 📫 You can reach me through soumyavarghese03@gmail.com
